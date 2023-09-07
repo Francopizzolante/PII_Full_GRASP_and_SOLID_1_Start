@@ -1,0 +1,11 @@
+c:\Users\User\OneDrive - Universidad Católica del Uruguay\Escritorio\Programacion2\Repositorios\PII_Full_GRASP_and_SOLID_1_Start\PII_Full_GRASP_and_SOLID_1_Start\src\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\OneDrive - Universidad Católica del Uruguay\Escritorio\Programacion2\Repositorios\PII_Full_GRASP_and_SOLID_1_Start\PII_Full_GRASP_and_SOLID_1_Start\src\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+c:\Users\User\OneDrive - Universidad Católica del Uruguay\Escritorio\Programacion2\Repositorios\PII_Full_GRASP_and_SOLID_1_Start\PII_Full_GRASP_and_SOLID_1_Start\src\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+c:\Users\User\OneDrive - Universidad Católica del Uruguay\Escritorio\Programacion2\Repositorios\PII_Full_GRASP_and_SOLID_1_Start\PII_Full_GRASP_and_SOLID_1_Start\src\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+c:\Users\User\OneDrive - Universidad Católica del Uruguay\Escritorio\Programacion2\Repositorios\PII_Full_GRASP_and_SOLID_1_Start\PII_Full_GRASP_and_SOLID_1_Start\src\Library\bin\Debug\net6.0\Library.deps.json
+c:\Users\User\OneDrive - Universidad Católica del Uruguay\Escritorio\Programacion2\Repositorios\PII_Full_GRASP_and_SOLID_1_Start\PII_Full_GRASP_and_SOLID_1_Start\src\Library\bin\Debug\net6.0\Library.dll
+c:\Users\User\OneDrive - Universidad Católica del Uruguay\Escritorio\Programacion2\Repositorios\PII_Full_GRASP_and_SOLID_1_Start\PII_Full_GRASP_and_SOLID_1_Start\src\Library\bin\Debug\net6.0\Library.pdb
+c:\Users\User\OneDrive - Universidad Católica del Uruguay\Escritorio\Programacion2\Repositorios\PII_Full_GRASP_and_SOLID_1_Start\PII_Full_GRASP_and_SOLID_1_Start\src\Library\obj\Debug\net6.0\Library.dll
+c:\Users\User\OneDrive - Universidad Católica del Uruguay\Escritorio\Programacion2\Repositorios\PII_Full_GRASP_and_SOLID_1_Start\PII_Full_GRASP_and_SOLID_1_Start\src\Library\obj\Debug\net6.0\refint\Library.dll
+c:\Users\User\OneDrive - Universidad Católica del Uruguay\Escritorio\Programacion2\Repositorios\PII_Full_GRASP_and_SOLID_1_Start\PII_Full_GRASP_and_SOLID_1_Start\src\Library\obj\Debug\net6.0\Library.pdb
+c:\Users\User\OneDrive - Universidad Católica del Uruguay\Escritorio\Programacion2\Repositorios\PII_Full_GRASP_and_SOLID_1_Start\PII_Full_GRASP_and_SOLID_1_Start\src\Library\obj\Debug\net6.0\ref\Library.dll
