@@ -24,7 +24,9 @@ namespace Full_GRASP_And_SOLID.Library
         {
             this.steps.Remove(step);
         }
-
+        // Patrón utilizado: Principio SOLID - Principio de Responsabilidad Única (SRP)
+        // El cálculo del costo total se encuentra en este método para separar la responsabilidad
+        // de calcular costos de producción de la impresión de la receta, siguiendo el principio SRP.
         public double GetProductionCost()
         {
             double totalCostOfIngredients = 0;
