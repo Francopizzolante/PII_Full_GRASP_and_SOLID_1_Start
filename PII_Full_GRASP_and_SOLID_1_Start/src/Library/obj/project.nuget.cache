@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+fnSHoFJzjhUvAtVgM+LWHa9e5QeVz4DBwBps8AZe4LeSbLtv8Xg220MFbpFmNCep7AIzoXFsI71iTEHckmaaA==",
+  "dgSpecHash": "xhnPLclkWie9xiO62VRZOhlPR/Dfv2v4gz1m12kA+7n9CNfbPmpme8j922EyMWDfj9E8j4QaIdICfiS9x2IlKQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\User\\OneDrive - Universidad Católica del Uruguay\\Escritorio\\Programacion2\\Repositorios\\PII_Full_GRASP_and_SOLID_1_Start\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Library\\Library.csproj",
+  "projectFilePath": "c:\\Users\\franc\\OneDrive - Universidad Católica del Uruguay\\Escritorio\\Programacion2\\Repositorios\\PII_Full_GRASP_and_SOLID_1_Start\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Library\\Library.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512"
+    "C:\\Users\\franc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\franc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\franc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512"
   ],
   "logs": []
 }
